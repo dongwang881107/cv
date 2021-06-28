@@ -115,13 +115,13 @@ p {
 }
 
 li {
-    padding-bottom: 1em;
+    padding-bottom: -1em;
 }
 
 div.inner {
     padding-top: .5em;
     width: 100%;
-    font-size: 16pt;
+    font-size: 14pt;
     transform: rotate(0deg);
     position: relative;
 }
@@ -144,8 +144,7 @@ div.contact {
 }
 
 div.rightinner {
-    padding-left: 18px;
-    /* padding-right: 18px; */
+    padding-left: 10px;
 }
 
 div.rightelement {
